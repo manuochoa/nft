@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/nft/static/css/main.e35ad2af.chunk.css",
+    "main.js": "/nft/static/js/main.29e2ac98.chunk.js",
+    "main.js.map": "/nft/static/js/main.29e2ac98.chunk.js.map",
+    "runtime-main.js": "/nft/static/js/runtime-main.29c10140.js",
+    "runtime-main.js.map": "/nft/static/js/runtime-main.29c10140.js.map",
+    "static/css/2.7245ae96.chunk.css": "/nft/static/css/2.7245ae96.chunk.css",
+    "static/js/2.90ba89e6.chunk.js": "/nft/static/js/2.90ba89e6.chunk.js",
+    "static/js/2.90ba89e6.chunk.js.map": "/nft/static/js/2.90ba89e6.chunk.js.map",
+    "static/js/3.6b9c982f.chunk.js": "/nft/static/js/3.6b9c982f.chunk.js",
+    "static/js/3.6b9c982f.chunk.js.map": "/nft/static/js/3.6b9c982f.chunk.js.map",
+    "index.html": "/nft/index.html",
+    "static/css/2.7245ae96.chunk.css.map": "/nft/static/css/2.7245ae96.chunk.css.map",
+    "static/css/main.e35ad2af.chunk.css.map": "/nft/static/css/main.e35ad2af.chunk.css.map",
+    "static/js/2.90ba89e6.chunk.js.LICENSE.txt": "/nft/static/js/2.90ba89e6.chunk.js.LICENSE.txt",
+    "static/media/linkedin.70362626.png": "/nft/static/media/linkedin.70362626.png",
+    "static/media/index.css": "/nft/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/telegram.feb915a8.svg": "/nft/static/media/telegram.feb915a8.svg",
+    "static/media/upwork.6dd5380d.png": "/nft/static/media/upwork.6dd5380d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c10140.js",
+    "static/css/2.7245ae96.chunk.css",
+    "static/js/2.90ba89e6.chunk.js",
+    "static/css/main.e35ad2af.chunk.css",
+    "static/js/main.29e2ac98.chunk.js"
+  ]
+}
