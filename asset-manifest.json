@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/nft/static/css/main.e35ad2af.chunk.css",
-    "main.js": "/nft/static/js/main.83f2bec2.chunk.js",
-    "main.js.map": "/nft/static/js/main.83f2bec2.chunk.js.map",
-    "runtime-main.js": "/nft/static/js/runtime-main.29c10140.js",
-    "runtime-main.js.map": "/nft/static/js/runtime-main.29c10140.js.map",
+    "main.css": "/nft/static/css/main.2503d2d7.chunk.css",
+    "main.js": "/nft/static/js/main.88374ff4.chunk.js",
+    "main.js.map": "/nft/static/js/main.88374ff4.chunk.js.map",
+    "runtime-main.js": "/nft/static/js/runtime-main.47b0f8f4.js",
+    "runtime-main.js.map": "/nft/static/js/runtime-main.47b0f8f4.js.map",
     "static/css/2.7245ae96.chunk.css": "/nft/static/css/2.7245ae96.chunk.css",
-    "static/js/2.638dd55e.chunk.js": "/nft/static/js/2.638dd55e.chunk.js",
-    "static/js/2.638dd55e.chunk.js.map": "/nft/static/js/2.638dd55e.chunk.js.map",
-    "static/js/3.6b9c982f.chunk.js": "/nft/static/js/3.6b9c982f.chunk.js",
-    "static/js/3.6b9c982f.chunk.js.map": "/nft/static/js/3.6b9c982f.chunk.js.map",
+    "static/js/2.e65390bf.chunk.js": "/nft/static/js/2.e65390bf.chunk.js",
+    "static/js/2.e65390bf.chunk.js.map": "/nft/static/js/2.e65390bf.chunk.js.map",
+    "static/js/3.f265b89f.chunk.js": "/nft/static/js/3.f265b89f.chunk.js",
+    "static/js/3.f265b89f.chunk.js.map": "/nft/static/js/3.f265b89f.chunk.js.map",
     "index.html": "/nft/index.html",
     "static/css/2.7245ae96.chunk.css.map": "/nft/static/css/2.7245ae96.chunk.css.map",
-    "static/css/main.e35ad2af.chunk.css.map": "/nft/static/css/main.e35ad2af.chunk.css.map",
-    "static/js/2.638dd55e.chunk.js.LICENSE.txt": "/nft/static/js/2.638dd55e.chunk.js.LICENSE.txt",
+    "static/css/main.2503d2d7.chunk.css.map": "/nft/static/css/main.2503d2d7.chunk.css.map",
+    "static/js/2.e65390bf.chunk.js.LICENSE.txt": "/nft/static/js/2.e65390bf.chunk.js.LICENSE.txt",
     "static/media/linkedin.70362626.png": "/nft/static/media/linkedin.70362626.png",
     "static/media/index.css": "/nft/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
     "static/media/telegram.feb915a8.svg": "/nft/static/media/telegram.feb915a8.svg",
     "static/media/upwork.6dd5380d.png": "/nft/static/media/upwork.6dd5380d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.29c10140.js",
+    "static/js/runtime-main.47b0f8f4.js",
     "static/css/2.7245ae96.chunk.css",
-    "static/js/2.638dd55e.chunk.js",
-    "static/css/main.e35ad2af.chunk.css",
-    "static/js/main.83f2bec2.chunk.js"
+    "static/js/2.e65390bf.chunk.js",
+    "static/css/main.2503d2d7.chunk.css",
+    "static/js/main.88374ff4.chunk.js"
   ]
 }
